@@ -22,4 +22,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 - LinkedIn: [https://www.linkedin.com/in/mickael-tacnet](https://www.linkedin.com/in/mickael-tacnet)
 
-- Project Link: [https://github.com/mtacnet/json_merger](https://github.com/mtacnet/json_merger)
+- Project Link: [https://github.com/mtacnet/json-merger](https://github.com/mtacnet/json-merger)
