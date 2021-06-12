@@ -1,0 +1,14 @@
+{
+  "dev": "https://exemple.com",
+  "security": "https://exemple2.com",
+  "blog": {
+    "devops": {
+      "firstLink": "https://devops1.com",
+      "secondLink": "https://devops2.com"
+    },
+    "sec": {
+      "firstLink": "https://mysec1.com",
+      "secondLink": "https://mysec2.com"
+    }
+  }
+}
