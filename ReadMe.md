@@ -4,7 +4,7 @@
 
 1. First, git clone project
 ```git
-git clone https://github.com/mtacnet/favorite_joiner.git
+git clone https://github.com/mtacnet/json-merger.git
 ```
 
 2. Move to cloned repository and open `generate.html` with your favorite browser.
